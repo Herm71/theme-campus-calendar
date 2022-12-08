@@ -68,6 +68,10 @@ License URI: LICENSE
 .user-login {
   float: right;
 }
+
+.user-login {
+  float: right;
+}
 @media screen and (max-width: new-breakpoint(max-width 959px 6)) {
   .user-login #menu .action_menu {
     top: 0px !important;
