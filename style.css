@@ -23,7 +23,7 @@ License URI: LICENSE
 .search .search_action {
   width: 200px;
 }
-@media screen and (max-width: new-breakpoint(max-width 767px 4)) {
+@media screen and (max-width: 767px) {
   .search .search_action {
     width: 100%;
   }
@@ -35,7 +35,7 @@ License URI: LICENSE
 #top-search {
   background-color: #fff;
 }
-@media screen and (max-width: new-breakpoint(max-width 767px 4)) {
+@media screen and (max-width: 767px) {
   #top-search {
     width: 100%;
   }
@@ -59,7 +59,7 @@ License URI: LICENSE
 .secondary-name {
   float: left;
 }
-@media screen and (max-width: new-breakpoint(max-width 767px 4)) {
+@media screen and (max-width: 767px) {
   .secondary-name .title-medium {
     padding-right: 0px !important;
   }
@@ -72,7 +72,7 @@ License URI: LICENSE
 .user-login {
   float: right;
 }
-@media screen and (max-width: new-breakpoint(max-width 959px 6)) {
+@media screen and (max-width: 959px) {
   .user-login #menu .action_menu {
     top: 0px !important;
     right: 0px !important;
@@ -82,7 +82,7 @@ License URI: LICENSE
 .hamburger .mobile-menu {
   display: none;
 }
-@media screen and (max-width: new-breakpoint(max-width 767px 4)) {
+@media screen and (max-width: 767px) {
   .hamburger .mobile-menu {
     overflow: hidden;
     text-indent: 101%;
